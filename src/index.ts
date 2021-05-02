@@ -10,7 +10,7 @@ customMap.addUserMarker(user);
 customMap.addCompanyMarker(company);
 
 
-
+//Stupid conflicts annoying this
 
 
 // AIzaSyBNLrJhOMz6idD05pzfn5lhA-TAw-mAZCU
